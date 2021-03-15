@@ -13,12 +13,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on deep learning projects.
-- 🌱 I’m currently learning automation in python.
-- 👯 I’m looking to collaborate on AI fields.
+- 🔭 I’m currently making some exciting mbile apps.
+- 🌱 I’m currently learning more about Flutter.
+- 👯 I’m looking to collaborate with fellow Flutter enthusiast.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about my  choices
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: AI will overtake humans.
+- ⚡ Fun fact: We are what we are.
 -->
