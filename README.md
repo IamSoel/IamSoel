@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate with fellow Flutter enthusiast.
 - 💬 Ask me about my  choices
-- ⚡ Fun fact: We are what we are.:sweat_smile: .
+- ⚡ Fun fact: We are what we are. :sweat_smile: .
 
 ![Soel's github stats](https://github-readme-stats.vercel.app/api?username=IamSoel&show_icons=true&theme=tokyonight)
 
